@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-gtm-test/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-gtm-test/static/js/main.33af817e.chunk.js",
-    "main.js.map": "/react-gtm-test/static/js/main.33af817e.chunk.js.map",
+    "main.js": "/react-gtm-test/static/js/main.67013600.chunk.js",
+    "main.js.map": "/react-gtm-test/static/js/main.67013600.chunk.js.map",
     "runtime-main.js": "/react-gtm-test/static/js/runtime-main.c3e034db.js",
     "runtime-main.js.map": "/react-gtm-test/static/js/runtime-main.c3e034db.js.map",
     "static/js/2.71b00336.chunk.js": "/react-gtm-test/static/js/2.71b00336.chunk.js",
     "static/js/2.71b00336.chunk.js.map": "/react-gtm-test/static/js/2.71b00336.chunk.js.map",
     "index.html": "/react-gtm-test/index.html",
-    "precache-manifest.08b4dd108513899df90a6527a6809855.js": "/react-gtm-test/precache-manifest.08b4dd108513899df90a6527a6809855.js",
+    "precache-manifest.d2414c77e1a32bd506c0ea71ba340e4c.js": "/react-gtm-test/precache-manifest.d2414c77e1a32bd506c0ea71ba340e4c.js",
     "service-worker.js": "/react-gtm-test/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/react-gtm-test/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.71b00336.chunk.js.LICENSE.txt": "/react-gtm-test/static/js/2.71b00336.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c3e034db.js",
     "static/js/2.71b00336.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.33af817e.chunk.js"
+    "static/js/main.67013600.chunk.js"
   ]
 }
